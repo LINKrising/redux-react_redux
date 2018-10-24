@@ -132,7 +132,7 @@ We are always open to [your feedback](https://github.com/facebook/create-react-a
 After creation, your project should look like this:
 
 ```
-my-app/
+redux-react_redux/
   README.md
   node_modules/
   package.json
